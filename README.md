@@ -16,6 +16,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+## Para acessar o código:
+
+1- Procure a pasta app.
+
+2- Dentro de app, clique na pasta (tabs).
+
+O código principal do currículo está* no arquivo index.tsx.
+
+---
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
